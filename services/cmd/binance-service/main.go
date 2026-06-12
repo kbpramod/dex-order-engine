@@ -1,7 +1,7 @@
 package main
 
 import (
-	"binance-service/routes"
+	"services/internal/binance/routes"
 
 	"github.com/gin-gonic/gin"
 )

@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"time"
 
-	"binance-service/models"
+	"services/internal/models"
 )
 
 func GetPrice(symbol string) (*models.PriceResponse, error) {

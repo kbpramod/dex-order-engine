@@ -3,8 +3,8 @@ package controllers
 import (
 	"net/http"
 
-	"binance-service/models"
-	"binance-service/services"
+	"services/internal/binance/services"
+	"services/internal/models"
 
 	"github.com/gin-gonic/gin"
 )

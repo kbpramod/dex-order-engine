@@ -1,7 +1,7 @@
 package routes
 
 import (
-	"binance-service/controllers"
+	"services/internal/binance/controllers"
 
 	"github.com/gin-gonic/gin"
 )
