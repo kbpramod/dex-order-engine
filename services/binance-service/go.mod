@@ -1,3 +1,0 @@
-module binance-service
-
-go 1.26.4
